@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Deniz 👋
 
-<!--
-**wh0isdeniz/wh0isdeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student @ PJATK, Warsaw — focused on AI & Data Science. Currently deep in ML/DL projects and organizing events with GDG PJATK.
 
-Here are some ideas to get you started:
+🔭 Into: machine learning, deep learning, data pipelines
+🌱 Leading GDG PJATK — DevFest, workshops, meetups
+🧰 Python · Java · TensorFlow · scikit-learn · SQL
+📫 [LinkedIn](https://linkedin.com/in/your-link-here)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### A few things I've built
+- **Bike-share demand forecasting** — regression pipeline on 700K+ NYC CitiBike trips, tuned RF beat baseline by ~25%
+- **CIFAR-10: CNN vs ResNet** — ResNet hit 90% test accuracy vs 79% for the plain CNN baseline
+
+---
