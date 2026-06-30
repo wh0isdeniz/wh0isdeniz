@@ -5,7 +5,7 @@ CS student @ PJATK, Warsaw — focused on AI & Data Science. Currently deep in M
 - 🔭 Curious about tech in general — currently spending most of my time on AI/ML
 - 🌱 Leading GDG PJATK — DevFest, workshops, meetups
 - 🧰 Python · Java · TensorFlow · scikit-learn · SQL
-- 📫 [LinkedIn](https://linkedin.com/in/your-link-here)
+- 📫 [LinkedIn](https://www.linkedin.com/in/deniz-erdem-ozkan/)
 
 ---
 
